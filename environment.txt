@@ -1,0 +1,31 @@
+# Creating the environment
+conda create -n env python=3.8
+
+# Installing Tensorflow
+conda install tensorflow-gpu
+
+# Installing Pytorch
+pip3 install torch==1.7.0 torchvision==0.8.1 -f https://download.pytorch.org/whl/cu101/torch_stable.html
+
+# Installing networkx
+conda install -c anaconda networkx
+
+# Installing tqdm
+conda install -c conda-forge tqdm
+
+# Installing numpy
+conda install -c anaconda numpy
+
+# Installing pyvis
+conda install -c conda-forge pyvis
+
+# Installing sklearn
+conda install -c anaconda scikit-learn
+
+# Installing scipy
+conda install -c anaconda scipy
+
+# Installing torch geometric
+pip install torch-scatter==2.0.7 -f https://data.pyg.org/whl/torch-1.7.1+cu101.html
+pip install torch-sparse==0.6.12 -f https://data.pyg.org/whl/torch-1.7.0%2Bcu101.html
+pip install torch-cluster torch-spline-conv torch-geometric -f https://data.pyg.org/whl/torch-1.7.0%2Bcu101.html
