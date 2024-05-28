@@ -1,5 +1,7 @@
 # Deep Distance Sensitivity Oracles 
 
+This is the code implementation of the paper Deep Distance Sensitivity Oracles by Davin Jeong, Allison Gunby-Mann, Sarel Cohen, Maximilian Katzmann, Chau Pham, Arnav Bhakta, Tobias Friedrich, Sang Chin, originally published in Complex Networks 2024: https://arxiv.org/abs/2211.02681
+
 ## Setting up Environment
 
 Experiments were run on Quadro RTX 8000 and an Intel(R) Xeon(R) Silver 4214R CPU, using cudatoolkit 10.1. Due to compatibility issues, we download each package manually; please refer to the commands in environment.txt.  
