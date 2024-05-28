@@ -1,6 +1,6 @@
 # Deep Distance Sensitivity Oracles 
 
-This is the code implementation of the paper Deep Distance Sensitivity Oracles by Davin Jeong, Allison Gunby-Mann, Sarel Cohen, Maximilian Katzmann, Chau Pham, Arnav Bhakta, Tobias Friedrich, Sang Chin, originally published in Complex Networks 2024: https://arxiv.org/abs/2211.02681
+This is the code implementation of the paper Deep Distance Sensitivity Oracles by Davin Jeong, Allison Gunby-Mann, Sarel Cohen, Maximilian Katzmann, Chau Pham, Arnav Bhakta, Tobias Friedrich, Sang Chin, originally published in Complex Networks 2023: https://arxiv.org/abs/2211.02681
 
 ## Setting up Environment
 
